@@ -11,6 +11,9 @@
 
 # Challenges
 
+Mini Compiler Challenge
+
 | Challenge | Name                                      |                                    |
 | --------- | ----------------------------------------- | ---------------------------------- |
 | 1         | Animls counter                            | [solution](./challenge1/challenge1.py) |
+| 2         | Mini Compiler Challenge                   | [solution](./challenge2/challenge2.py) |
