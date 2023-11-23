@@ -17,3 +17,4 @@ Mini Compiler Challenge
 | --------- | ----------------------------------------- | ---------------------------------- |
 | 1         | Animls counter                            | [solution](./challenge1/challenge1.py) |
 | 2         | Mini Compiler Challenge                   | [solution](./challenge2/challenge2.py) |
+| 3         | El Desafío del Cifrado Espía              | [solution](./challenge3/challenge3.py) |
